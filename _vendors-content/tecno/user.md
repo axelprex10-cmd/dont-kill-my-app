@@ -6,7 +6,8 @@ manufacturer:
 
 ## Power Saving Management
 
-Go to _Settings → Battery Lab → Battery Saving Settings → Disable **Power Saving Management For Apps**_
+Go to _Settings → Battery Lab → Battery Saving Settings → Disable **Power Saving Management For Apps**_kssjns
+
 
 ## Allow app to run in the background
 
